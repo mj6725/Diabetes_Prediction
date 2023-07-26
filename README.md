@@ -1,3 +1,3 @@
-# Multiple_Disease_Prediction
+# Diabetes_Prediction
 
-Updated Working Link:- not available
+Working Link:- [not available](https://mritunjay-mainpy-xkruacck8g3ijqsgy2y4rn.streamlit.app/)https://mritunjay-mainpy-xkruacck8g3ijqsgy2y4rn.streamlit.app/
